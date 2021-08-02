@@ -1,6 +1,6 @@
 # DB定義書
 ## ER図
-[ER図]( https://github.com/Aso2001165/2021sys-design/blob/main/ER_all.md "ER図はこちら" )
+[ER図はこちら]( https://github.com/Aso2001165/2021sys-design/blob/main/%E8%87%AA%E5%88%86%E3%81%AEEC%E3%82%B5%E3%82%A4%E3%83%88/ER%E5%9B%B3.md )
 
 # データベース詳細
 
